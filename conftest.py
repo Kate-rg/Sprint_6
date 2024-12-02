@@ -1,6 +1,7 @@
 import pytest
 from selenium import webdriver
-from data import URL, CookieLocator
+from data import CookieLocator
+from urls import URL
 
 
 @pytest.fixture(scope='function')

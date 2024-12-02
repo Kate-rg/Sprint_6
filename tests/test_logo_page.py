@@ -1,7 +1,8 @@
 import allure
 
 from pages.logo_page import LogoPage
-from data import URL
+from urls import URL
+
 
 class TestLogoPage:
 
