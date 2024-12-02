@@ -1,10 +1,5 @@
 from selenium.webdriver.common.by import By
 
-
-class URL:
-    FIRST_PAGE = 'https://qa-scooter.praktikum-services.ru/'
-    DZEN_PAGE = 'https://dzen.ru/?yredirect=true'
-
 class ITEMS:
     NAME_1 = 'Александр'
     NAME_2 = 'Сергей'

@@ -1,8 +1,8 @@
 import allure
 
-from data import URL
 from locators.locators_logo_page import LocatorsLogoPage
 from pages.base_page import BasePage
+from urls import URL
 
 
 class LogoPage(BasePage):
